@@ -1,8 +1,8 @@
 # PHP_FullText_Search_Implementation: User login implementation and FULLTEXT search function
 
 ## Reference website: https://opal.ils.unc.edu/~zhepu/zhepu_p2/results.php
-<b>login username: rob</b>
-<b>login password: rob</b>
+<b>login username: rob</b><br>
+<b>login password: rob</b><br>
 <b>This website is only used for academic things. So it doesn't include any registration function and only one user is stored in the database. But it's a kind of real-life functional website which is connected the database installed on the server pearl.ils.unc.edu. </b>
 
 ## Login Interface
